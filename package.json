@@ -1,0 +1,14 @@
+{
+  "name": "garrix-lister",
+  "description": "garrix-lister",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2"
+  }
+}
